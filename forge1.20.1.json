@@ -1,0 +1,36 @@
+{
+    "footer": "Example Footer",
+    "entries": [
+        {
+            "version": "",
+            "date": "2026-03-25",
+            "title": "New Update",
+            "type": [
+                "minor"
+            ],
+            "tags": [],
+            "color": "0xFFFFFF00",
+            "changes": [
+                ""
+            ]
+        },
+        {
+            "version": "1.0.0",
+            "date": "2026-02-12",
+            "title": "Example Title",
+            "type": [
+                "major"
+            ],
+            "tags": [
+                "Example"
+            ],
+            "color": "0xFFFFFF00",
+            "changes": [
+                "Example Update 1"
+            ]
+        }
+    ],
+    "tagColors": {
+        "Example": "#5555FF"
+    }
+}
