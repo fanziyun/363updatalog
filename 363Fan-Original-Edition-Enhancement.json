@@ -2,6 +2,21 @@
   "footer": "",
   "entries": [
     {
+      "version": "1.0.0",
+      "date": "2026-03-25",
+      "title": "",
+      "type": [
+        "次要更新"
+      ],
+      "tags": [
+        "大修复"
+      ],
+      "color": "0xFFFFFF00",
+      "changes": [
+        "第二个版本"
+      ]
+    },
+    {
       "version": "8.3.0",
       "date": "2026-03-25",
       "title": "小修复",
