@@ -1,0 +1,18 @@
+{
+    "footer": "363 Modpack Team",
+    "entries": [
+        {
+            "version": "1.0.0",
+            "date": "2026-03-25",
+            "title": "首次发布",
+            "type": [
+                "重大更新"
+            ],
+            "tags": [],
+            "color": "0xFFFFFF00",
+            "changes": [
+                ""
+            ]
+        }
+    ]
+}
