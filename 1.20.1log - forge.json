@@ -11,7 +11,7 @@
       "tags": [],
       "color": "0xFFFFFF00",
       "changes": [
-        ""
+        "我喜欢你"
       ]
     },
     {
@@ -44,6 +44,6 @@
     }
   ],
   "tagColors": {
-    "Example": "#5555FF"
+    "Example": "#4c4ccd"
   }
 }
