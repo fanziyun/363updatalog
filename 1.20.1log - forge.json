@@ -1,16 +1,49 @@
 {
-    "footer": "363 Modpack Team",
-    "entries": [
-        {
-            "version": "1.0.1",
-            "date": "2026-03-25",
-            "title": "首次发布",
-            "type": [
-                "重大更新"
-            ],
-            "tags": [],
-            "color": "0xFFFFFF00",
-            "changes": []
-        }
-    ]
+  "footer": "Example Footer",
+  "entries": [
+    {
+      "version": "1.0.0",
+      "date": "2026-03-25",
+      "title": "新版本内容",
+      "type": [
+        "次要更新"
+      ],
+      "tags": [],
+      "color": "0xFFFFFF00",
+      "changes": [
+        ""
+      ]
+    },
+    {
+      "version": "",
+      "date": "2026-03-25",
+      "title": "New Update",
+      "type": [
+        "minor"
+      ],
+      "tags": [],
+      "color": "0xFFFFFF00",
+      "changes": [
+        ""
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "date": "2026-02-12",
+      "title": "Example Title",
+      "type": [
+        "major"
+      ],
+      "tags": [
+        "Example"
+      ],
+      "color": "0xFFFFFF00",
+      "changes": [
+        "Example Update 1"
+      ]
+    }
+  ],
+  "tagColors": {
+    "Example": "#5555FF"
+  }
 }
