@@ -2,6 +2,19 @@
   "footer": "",
   "entries": [
     {
+      "version": "1.0.0",
+      "date": "2026-03-25",
+      "title": "好",
+      "type": [
+        "次要更新"
+      ],
+      "tags": [],
+      "color": "0xFFFFFF00",
+      "changes": [
+        "不一定更新"
+      ]
+    },
+    {
       "version": "1.0.3",
       "date": "2026-03-25",
       "title": "下次一定",
