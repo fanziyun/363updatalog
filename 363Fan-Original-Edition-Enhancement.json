@@ -1,19 +1,5 @@
 {
   "footer": "",
-  "entries": [
-    {
-      "version": "1.0.0",
-      "date": "2026-03-26",
-      "title": "",
-      "type": [
-        "次要更新"
-      ],
-      "tags": [],
-      "color": "0xFFFFFF00",
-      "changes": [
-        ""
-      ]
-    }
-  ],
+  "entries": [],
   "tagColors": {}
 }
