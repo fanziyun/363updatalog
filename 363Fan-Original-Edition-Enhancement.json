@@ -7,5 +7,21 @@
     "热修复": "0XFFAA00",
     "高风险": "0XFF5555"
   },
-  "entries": []
+  "entries": [
+    {
+      "version": "1.0.0",
+      "date": "2026-03-27",
+      "title": "标题测试",
+      "type": [
+        "次要更新"
+      ],
+      "tags": [
+        ""
+      ],
+      "color": "0XFFFFFF",
+      "changes": [
+        "明细测试"
+      ]
+    }
+  ]
 }
