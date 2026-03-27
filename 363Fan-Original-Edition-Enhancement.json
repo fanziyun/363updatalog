@@ -1,33 +1,11 @@
 {
-  "footer": "",
-  "entries": [
-    {
-      "version": "2.0.0",
-      "date": "2026-03-27",
-      "title": "标题测试",
-      "type": [
-        "重大更新",
-        "热修复"
-      ],
-      "tags": [],
-      "color": "0xFFFFFF00",
-      "changes": [
-        "更新明细测试"
-      ]
-    },
-    {
-      "version": "1.0.0",
-      "date": "2026-03-26",
-      "title": "",
-      "type": [
-        "次要更新"
-      ],
-      "tags": [],
-      "color": "0xFFFFFF00",
-      "changes": [
-        ""
-      ]
-    }
-  ],
-  "tagColors": {}
+  "footer": "§b整合包更新日志 §7| §f363帆的原版美化 2.0.0",
+  "tagColors": {
+    "重大更新": "0X55FFFF",
+    "次要更新": "0X55FF55",
+    "小改动": "0XAAAAAA",
+    "热修复": "0XFFAA00",
+    "高风险": "0XFF5555"
+  },
+  "entries": []
 }
