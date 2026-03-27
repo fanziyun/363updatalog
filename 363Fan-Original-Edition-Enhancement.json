@@ -17,9 +17,7 @@
       ],
       "tags": [],
       "color": "0XFFFFFF",
-      "changes": [
-        ""
-      ]
+      "changes": []
     },
     {
       "version": "1.0.0",
@@ -34,7 +32,7 @@
       ],
       "color": "0XFFFFFF",
       "changes": [
-        "明细测试2"
+        "明细测试4"
       ]
     }
   ]
