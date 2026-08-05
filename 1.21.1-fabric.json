@@ -1,6 +1,23 @@
 {
   "entries": [
     {
+      "version": "0.20.2",
+      "changes": [
+        "1.调整了光影“Photon\"的设置",
+        "2.更新模组核心",
+        "3.将ctnh-changelog更换为363changelog（1.21.x）",
+        "4.添加ysn_resourcepacks解决CozyUI+遗留bug",
+        "5.补齐汉化"
+      ],
+      "date": "2026-08-03",
+      "title": "新版本",
+      "type": [
+        "热修复",
+        "patch"
+      ],
+      "color": "0XFFFFFF"
+    }
+    {
       "version": "0.9.1",
       "changes": [
         "1.更新到26.1，26.1.1，26.1.2"
@@ -42,23 +59,7 @@
       ],
       "color": "0XFFFFFF"
     },
-    {
-      "version": "0.20.2",
-      "changes": [
-        "1.调整了光影“Photon\"的设置",
-        "2.更新模组核心",
-        "3.将ctnh-changelog更换为363changelog（1.21.x）",
-        "4.添加ysn_resourcepacks解决CozyUI+遗留bug",
-        "5.补齐汉化"
-      ],
-      "date": "2026-08-03",
-      "title": "新版本",
-      "type": [
-        "热修复",
-        "patch"
-      ],
-      "color": "0XFFFFFF"
-    }
+
   ],
   "footer": "§b整合包更新日志 §7| §f363帆的原版美化",
   "tagColors": {
