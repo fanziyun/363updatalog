@@ -13,10 +13,11 @@
       "title": "新版本",
       "type": [
         "热修复",
-        "patch"
+        "patch",
+        "hotfix"
       ],
       "color": "0XFFFFFF"
-    }
+    },
     {
       "version": "0.9.1",
       "changes": [
@@ -58,15 +59,14 @@
         "热修复"
       ],
       "color": "0XFFFFFF"
-    },
-
+    }
   ],
   "footer": "§b整合包更新日志 §7| §f363帆的原版美化",
   "tagColors": {
-    "重大更新": "0XFFAA00",
-    "次要更新": "0XCCCCCC",
     "小改动": "0X7C9C5E",
+    "次要更新": "0XCCCCCC",
     "热修复": "0XF87A1F",
+    "重大更新": "0XFFAA00",
     "高风险": "0X8B2C6E"
   }
 }
