@@ -13,8 +13,7 @@
       "title": "新版本",
       "type": [
         "热修复",
-        "patch",
-        "hotfix"
+        "patch"
       ],
       "color": "0XFFFFFF"
     },
