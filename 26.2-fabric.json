@@ -1,6 +1,21 @@
 {
   "entries": [
     {
+      "version": "0.21.2",
+      "changes": [
+        "添加363updater"
+      ],
+      "date": "2026-09-21",
+      "title": "提升到26.2",
+      "type": [
+        "minor"
+      ],
+      "tags": [
+        "更新包体到26.2"
+      ],
+      "color": "0xFF888888"
+    },
+    {
       "version": "0.21.1",
       "changes": [
         "1.去除BSL支持",
